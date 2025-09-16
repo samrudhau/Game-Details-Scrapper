@@ -1,0 +1,5 @@
+scrapy
+selenium
+scrapy_selenium
+scrapy-fake-useragent
+scrapy-rotating-proxies
